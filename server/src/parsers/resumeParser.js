@@ -4,7 +4,7 @@ import pdfParse from 'pdf-parse'
 import mammoth  from 'mammoth'
 
 import { extractName }                 from '../extractors/nameExtractor.js'
-import { extractSkills }               from '../extractors/skillsExtractor.js'
+import { extractSkills }               from '../extractors/Skillsextractor.js'
 import { extractExperienceFromResume } from '../extractors/experienceExtractor.js'
 import { extractSalary }               from '../extractors/salaryExtractor.js'
 
